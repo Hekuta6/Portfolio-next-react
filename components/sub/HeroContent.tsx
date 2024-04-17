@@ -46,7 +46,10 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Detail-oriented Junior Software Developer with experience offering critical assistance for complex application development, coding and testing. Extensive familiarity with Java, SQL and other composition languages and frameworks. Organized approach to joining collaborative environment, lending critical eye for software planning and assessment to meet organizational objectives. Expert at hands-on source code generation.
+          Detail-oriented Junior Software Developer with experience offering critical assistance for complex 
+          application development, coding and testing. Extensive familiarity with Java, SQL and other 
+          composition languages and frameworks. Organized approach to joining collaborative environment, lending critical
+           eye for software planning and assessment to meet organizational objectives. Expert at hands-on source code generation.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
