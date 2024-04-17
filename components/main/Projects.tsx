@@ -11,21 +11,25 @@ const Projects = () => {
         Here are some of my projects
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
+        
+        <ProjectCard
+          src="/DjangoWebsite.png" 
+          title="Django Website"
+          description="The purpose of my code is to demonstrate how Django can be used to create web applications by creating my personal portfolio website."
+        />
+  
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Next.js"
+          description="The purpose is to create a portfolio using next, react and vercel to deply website." 
         />
+
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/DjangoWebsite.png" 
+          title="Django Website"
+          description="The purpose of my code is to demonstrate how Django can be used to create web applications by creating my personal portfolio website."
         />
-          <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        />
+
       </div>
     </div>
   );
