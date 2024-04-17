@@ -20,5 +20,4 @@ The principal webpage include my personal information, a nav bar to locate speci
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Next](https://nextjs.org/learn)
