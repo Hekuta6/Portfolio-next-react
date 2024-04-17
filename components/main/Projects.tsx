@@ -23,11 +23,10 @@ const Projects = () => {
           title="Next.js"
           description="The purpose is to create a portfolio using next, react and vercel to deply website." 
         />
-
         <ProjectCard
           src="/DjangoWebsite.png" 
           title="Django Website"
-          description="The purpose of my code is to demonstrate how Django can be used to create web applications by creating my personal portfolio website."
+          description="The purpose of my code is to demonstrate how Django can be used to create web applications by creating my personal portfolio website"
         />
 
       </div>
